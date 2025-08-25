@@ -1,5 +1,5 @@
 # Fundamentos-de-Inteligencia-artificial
-## Integrantes del grupo: 
+# Integrantes del grupo: 
 
 *Eliam Castillo  
 
