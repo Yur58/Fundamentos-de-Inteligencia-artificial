@@ -1,10 +1,10 @@
 # Fundamentos de Inteligencia artificial
 ## Integrantes del grupo: 
 
-´Eliam Castillo´  
+**Eliam Castillo**
 
-*Jhon Muñoz
+**Jhon Muñoz**
 
-*José Quiñonez
+**José Quiñonez**
 
-*Yurliana Niebles
+**Yurliana Niebles**
